@@ -23,7 +23,7 @@ I work across the full stack of AI for healthcare — from model development and
 | 2024 — 2024 | Pixyl | Medical Imaging Data Scientist |
 | 2023 — 2023 | Carl Zeiss Meditec | AI/ML Researcher |
 | 2019 — 2022 | Maastricht University, Liege University | AI Researcher/Engineer |
-| 2019 — 2019 | SAS | Analytic |
+| 2019 — 2019 | SAS | Analyst |
 | 2015 — 2019 | Bauman Moscow State Technical University | Teaching assistant |
 | 2016 — 2017 | Microsoft | Technical Evangelist |
 | 2013 — 2014 | GE Healthcare | Modality Technical Specialist |
