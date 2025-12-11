@@ -8,8 +8,8 @@ I work across the full stack of AI for healthcare — from model development and
 ## 🧠 About Me
 
 - 👁️ I’m currently working on application AI to help in retinal disease treatment.
-- 🤓 I hold a PhD in ML / DL in clinical neuroimaging.
-- 🌱 My skillset is data- and modelling-heavy (I can suggest from scratch a dosen of statistical, mechanical, and even electric heart models), and now I’m focused on system building skills.
+- 🤓 I hold a doctoral degree in ML / DL in clinical neuroimaging.
+- 🌱 My skillset is data- and modelling-heavy (I can suggest from scratch a dosen of statistical, mechanical, and even electric heart models), and now I’m focused on system building skills development.
 - 🗣️ Languages: *English, Russian, French, and German is work in progress...*
 
 ---
