@@ -14,17 +14,8 @@ I work across the full stack of AI for healthcare — from model development and
 
 ---
 
-## 🏆 Experience
+## 💻 Work experience
 
-### 💻 Work
-
-**Role — Company**  
-*Location* — *Start Year – Present*  
-- Brief description of your role and impact
-- Key technologies or tools you used
-- Notable achievements or responsibilities
-
-## 💼 Work Experience
 
 | Years | Company | Role |
 |-------|---------|------|
