@@ -8,7 +8,7 @@ I work across the full stack of AI for healthcare — from model development and
 ## 🧠 About Me
 
 - 👁️ I’m currently working on application AI to help in retinal disease treatment.
-- 🤓 I hold a doctoral degree in ML / DL in clinical neuroimaging.
+- 🤓 I hold a doctoral degree in [ML / DL in clinical neuroimaging](https://cris.maastrichtuniversity.nl/en/publications/quantitative-neuroimaging-with-handcrafted-and-deep-radiomics-in-/).
 - 🌱 My skillset is data- and modelling-heavy (I can suggest from scratch a dosen of statistical, mechanical, and even electric heart models), and now I’m focused on system building skills development.
 - 🗣️ Languages: *English, Russian, French, and German is work in progress...*
 
@@ -19,14 +19,14 @@ I work across the full stack of AI for healthcare — from model development and
 
 | Years | Company | Role |
 |-------|---------|------|
-| 2024 — Present | deepeye Medical GmbH, Munich | Data Scientist (Medical Imaging) |
-| 2024 — 2024 | Pixyl | Medical Imaging Data Scientist |
-| 2023 — 2023 | Carl Zeiss Meditec | AI/ML Researcher |
-| 2019 — 2022 | Maastricht University, Liege University | AI Researcher/Engineer |
-| 2019 — 2019 | SAS | Analyst |
-| 2015 — 2019 | Bauman Moscow State Technical University | Teaching assistant |
-| 2016 — 2017 | Microsoft | Technical Evangelist |
-| 2013 — 2014 | GE Healthcare | Modality Technical Specialist |
+| 2024 — Present | [deepeye Medical GmbH](https://www.deepeye-medical.com/) | Data Scientist (Medical Imaging) |
+| 2024 — 2024 | [Pixyl](https://pixyl.ai/) | Medical Imaging Data Scientist |
+| 2023 — 2023 | [Carl Zeiss Meditec](https://www.zeiss.com/) | AI/ML Researcher |
+| 2019 — 2022 | [Maastricht University](https://precisionmedicinemaastricht.eu/about/), [Liege University](https://www.gigaivi.uliege.be/cms/c_4221332/en/giga-in-vivo-imaging) | AI Researcher/Engineer |
+| 2019 — 2019 | [SAS](https://www.sas.com/) | Analyst |
+| 2015 — 2019 | [Bauman Moscow State Technical University](https://mirror.bmstu.ru/) | Teaching assistant |
+| 2016 — 2017 | [Microsoft](https://developer.microsoft.com/en-us/developer-experience) | Technical Evangelist |
+| 2013 — 2014 | [GE Healthcare](https://www.gehealthcare.com/) | Modality Technical Specialist |
 
 ---
 
