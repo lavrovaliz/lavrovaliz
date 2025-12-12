@@ -36,8 +36,8 @@ I work across the full stack of AI for healthcare — from model development and
 | Dates | Institution | Degree / Focus |
 |--------|-------------|----------------|
 | 2017 — 2021 | University of Maastricht & University of Liège | PhD in ML/DL for Medical Imaging |
-| 2014 — 2016 | University (Your MSc Program) | MSc in Biomedical Signal Analysis |
-| 2010 — 2014 | University (Your BSc Program) | BSc in Medical Systems and Technologies |
+| 2014 — 2016 | Bauman Moscow State Technical University | MSc in Biomedical Signal Analysis |
+| 2010 — 2014 | Bauman Moscow State Technical University | BSc in Medical Systems and Technologies |
 
 
 ---
